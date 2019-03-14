@@ -5,6 +5,9 @@ public class FirstClass {
         System.out.println("hello git progect");
         System.out.println("将项目保存到git");
     }
-
+    public void test(){
+        int i = 0;
+        System.out.println(i);
+    }
 
 }
